@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently working on 🇨🇳 China Shenzhen
+
 <!--
 **jsonz1993/jsonz1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
