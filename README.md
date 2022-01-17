@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=jsonz1993&show_icons=true)](https://github.com/jsonz1993)
+
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jsonz1993&langs_count=6&layout=compact)
